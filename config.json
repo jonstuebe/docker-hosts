@@ -1,0 +1,9 @@
+{
+    "confFile": "/usr/local/etc/nginx/nginx.conf",
+    "hosts": [
+        {
+            "hostname": "npm-test.dev",
+            "port": "53058"
+        }
+    ]
+}
